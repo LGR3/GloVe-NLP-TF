@@ -1,7 +1,7 @@
-# GloVe-NLP-TF
-RecrutAi GloVe NLP Task Force: a One-Liner Text_Normalize()
+# RecrutAi GloVe NLP Task Force: a One-Liner Text_Normalize()
+Python in-code library for preprocessing and normalizing text data.   
 
-This code/lib should be used in-code and must be identical for model constructors and for using the models predict().
+This code/lib should be used in-code and must be identical for model constructors and model's predict() alike.
 
 ```python
 # ======================
